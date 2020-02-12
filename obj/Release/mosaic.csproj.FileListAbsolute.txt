@@ -1,0 +1,10 @@
+D:\Downloads\sourcemosaic\mosaic\bin\Release\mosaic.exe
+D:\Downloads\sourcemosaic\mosaic\bin\Release\mosaic.pdb
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.csprojResolveAssemblyReference.cache
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.FormMain.resources
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.SetDlg.resources
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.HelpDlg.resources
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.Properties.Resources.resources
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.csproj.GenerateResource.Cache
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.exe
+D:\Downloads\sourcemosaic\mosaic\obj\Release\mosaic.pdb
